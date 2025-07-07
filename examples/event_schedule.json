@@ -1,0 +1,1 @@
+{'type': 'event_schedule', 'source': 'Google Calendar', 'date': '2025-07-09', 'events': [{'time': '09:00', 'title': 'Team stand-up', 'location': 'Zoom'}, {'time': '15:00', 'title': 'Dentist', 'location': 'Clinic X'}]}
