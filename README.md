@@ -1,5 +1,7 @@
 # Structured Memory Input for ChatGPT
 
+![Contributions Disabled](https://img.shields.io/badge/contributions-disabled-lightgrey?style=flat-square)
+
 > Technical feature request authored by **Tiago Valença**
 
 ---
