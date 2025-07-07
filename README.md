@@ -68,9 +68,11 @@ This repository documents the full proposal for transparency, technical validati
 
 ---
 
-## 🤝 How to Contribute
+## 🤝 Contributions
 
-Feedback, suggestions, or extensions to this idea are welcome via pull requests or GitHub issues. Contributions must respect the proposal’s ethical framework: privacy, consent, and no unauthorized automation.
+At this stage, this project is a **personal technical proposal**, not an active development effort. While feedback is welcome, **pull requests and code contributions are not being accepted** unless explicitly requested.
+
+You are welcome to open an issue for discussion or share your thoughts via GitHub Issues if this proposal resonates with you.
 
 ---
 
@@ -79,7 +81,7 @@ Feedback, suggestions, or extensions to this idea are welcome via pull requests 
 **Tiago Valença**  
 Software developer and AI user  
 [GitHub Profile](https://github.com/tqvalenca)  
-[About.me Profile](https://about.me/tvalenca) 
+[About.me Profile](https://about.me/tvalenca)*
 
 ---
 
