@@ -85,6 +85,8 @@ If the project evolves into a collaborative implementation, particularly in part
 
 Until then, the repository remains in **documentation and proposal mode only**.
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
+
 ---
 
 ## 👤 Author
