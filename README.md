@@ -76,6 +76,15 @@ At this stage, this project is a **personal technical proposal**, not an active 
 
 You are welcome to open an issue for discussion or share your thoughts via GitHub Issues if this proposal resonates with you.
 
+If the project evolves into a collaborative implementation, particularly in partnership with OpenAI or aligned developers, the following steps can be taken to re-enable contributions:
+
+- [ ] Remove or adjust the current branch protection rules
+- [ ] Update this README to reflect new contribution guidelines
+- [ ] Add a `CONTRIBUTING.md` file with scope and technical standards
+- [ ] Define `CODEOWNERS` if needed for shared responsibilities
+
+Until then, the repository remains in **documentation and proposal mode only**.
+
 ---
 
 ## 👤 Author
